@@ -1,0 +1,361 @@
+sentence_id,question,Keziah,Kathryn,Karim,Keziah reason,Kathryn reason,Karim reason,human_answerability,article_id,model,dataset
+4,How exactly do institutional investors have the balance of power to influence sustainability?,3,3,3,"25, 86",86,86,3.0,1927,chatgpt,tedq
+4,What specific actions can institutional investors take to promote sustainability?,3,3,3,"16, 17, 25, 95",95,"33, 38, 70",3.0,1927,chatgpt,tedq
+4,Are there any regulations or guidelines in place that require institutional investors to prioritize sustainability?,1,1,2,,,76,1.333333333,1927,chatgpt,tedq
+4,What are some examples of successful sustainability initiatives led by institutional investors?,3,3,3,"31, 32, 37, 38, 68, 69, 70","65, 69","65, 69",3.0,1927,chatgpt,tedq
+4,Are there any challenges or barriers that institutional investors face when trying to promote sustainability?,2,2,2,"10, 76",76,76,2.0,1927,chatgpt,tedq
+7,How exactly are we consuming natural resources faster than they can be replenished?,1,1,1,,,,1.0,1927,chatgpt,tedq
+7,What are the main factors contributing to the increasing emissions responsible for climate change?,1,1,1,,,,1.0,1927,chatgpt,tedq
+7,How is the growing and aging population impacting sustainability?,1,1,1,,,,1.0,1927,chatgpt,tedq
+7,What are the specific environmental and social issues that are being overlooked by investors?,3,3,2,"17, 18","17, 18","17, 18",2.666666667,1927,chatgpt,tedq
+7,How do institutional investors have the power to influence sustainability?,2,3,3,86,86,86,2.666666667,1927,chatgpt,tedq
+10,What are some specific examples of the complex environmental and social issues that the author is referring to?,3,2,3,"17, 18, 22","17, 18",7,2.666666667,1927,chatgpt,tedq
+10,How do these issues specifically impact risk and return in investment decisions?,2,3,2,22,22,7,2.333333333,1927,chatgpt,tedq
+10,What are some potential long-term consequences of ignoring these sustainability issues?,3,3,3,"3, 7",97,"94, 97, 7",3.0,1927,chatgpt,tedq
+10,How can institutional investors effectively influence sustainability practices?,3,3,3,"16, 21, 22",95,95,3.0,1927,chatgpt,tedq
+10,What evidence or data supports the claim that sustainable investing is better-performing than commonly believed?,3,3,3,"56, 57",56-57,"56,57, 65, 69",3.0,1927,chatgpt,tedq
+13,What are the current investment rules that are being questioned for their suitability in the future?,2,2,2,"14, 15","14, 16, 76","14, 15",2.0,1927,chatgpt,tedq
+13,What specific aspects of these investment rules are being called into question?,2,2,2,16,"14, 16","15, 16",2.0,1927,chatgpt,tedq
+13,What factors or changes in the world are causing the need to reassess the suitability of these investment rules?,0,0,0,7,7,7,0.0,1927,chatgpt,tedq
+13,Are there any proposed alternative investment rules or strategies that are being suggested as more suitable for the future?,3,3,3,"21, 22",22,"16, 21",3.0,1927,chatgpt,tedq
+13,"How are institutional investors, such as pension funds, foundations, and endowments, responding to this questioning of investment rules and the need for sustainability?",3,3,3,"33, 66, 70","63, 76 ","25, 26, 27",3.0,1927,chatgpt,tedq
+16,What specific performance metrics should investors consider when evaluating a company's environmental impact?,3,3,3,"17, 18",17,"16, 17",3.0,1927,chatgpt,tedq
+16,How do social performance metrics differ from environmental and governance metrics?,2,3,3,18,18,18,2.666666667,1927,chatgpt,tedq
+16,Are there standardized benchmarks or guidelines for measuring and comparing ESG performance across companies?,1,1,1,,,,1.0,1927,chatgpt,tedq
+16,How do institutional investors incorporate ESG factors into their investment decision-making process?,3,3,3,"66, 70","66, 70","32, 38",3.0,1927,chatgpt,tedq
+16,What evidence or studies support the claim that sustainable investing is better-performing than traditional investing?,3,3,3,"56, 57",56-57,"56, 57, 69",3.0,1927,chatgpt,tedq
+4,What specific technological advances have enabled manufacturers to create nano-sized silver particles?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+4,How do these nano-sized silver particles differ from traditional silver particles in terms of their antibacterial properties?,3,3,3,17,17,"17, 18",3.0,3,chatgpt,inquisitive
+4,Are there any potential health risks associated with incorporating nano-sized silver into everyday products?,3,3,3,"6, 28","7, 28","6, 7,28,30, 31",3.0,3,chatgpt,inquisitive
+4,How effective are these silver-infused products in killing germs compared to traditional antibacterial agents?,2,2,1,29,29,,1.666666667,3,chatgpt,inquisitive
+4,Are there any regulations or guidelines in place to ensure the safe and responsible use of nano-sized silver in consumer goods?,2,3,2,10,10,"10, 11",2.333333333,3,chatgpt,inquisitive
+7,How exactly do bacteria become resistant to silver and other antibiotic drugs?,2,2,2,34,34,34,2.0,3,chatgpt,inquisitive
+7,What is triclosan and how does it contribute to bacteria becoming resistant?,0,0,0,7,7,7,0.0,3,chatgpt,inquisitive
+7,Are there any studies or research that have been conducted on the long-term effects of chronic exposure to nanosilver on human health?,3,3,3,"6, 50",50,"6, 50",3.0,3,chatgpt,inquisitive
+7,What are the potential risks associated with widespread use of nanosilver in consumer products?,3,3,3,"25, 26, 28, 31, 32, 37, 38",25,"6,7,31",3.0,3,chatgpt,inquisitive
+7,"Have there been any documented cases of bacteria developing resistance to silver in real-world settings, such as hospitals or other healthcare facilities?",2,2,1,34,34,,1.666666667,3,chatgpt,inquisitive
+10,What specific risks do manufacturers of nanosilver products need to register with the U.S. Environmental Protection Agency?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+10,How does the risk of nanosilver particles differ from conventional silver?,3,3,3,"25, 27",25,"26, 27",3.0,3,chatgpt,inquisitive
+10,What evidence or research has led the U.S. Environmental Protection Agency to require registration of nanosilver products?,3,3,2,"31, 34",31,"42, 25, 26",2.666666667,3,chatgpt,inquisitive
+10,How are manufacturers expected to prove the worth and safety of nanosilver products before putting them in the environment?,2,2,2,44,44,"6, 10, 11",2.0,3,chatgpt,inquisitive
+10,Are there any regulations or guidelines in place for the use and disposal of nanosilver products to minimize potential risks to human health and the ecosystem?,2,3,2,"43, 44","10, 32, 44",44,2.333333333,3,chatgpt,inquisitive
+13,"What does the term ""nanotechnology"" refer to in the context of consumer products?",0,0,0,,13,"4,6,13",0.0,3,chatgpt,inquisitive
+13,"How has the presence of nanotechnology in consumer products become ""underground""?",0,0,0,"12, 13",12,"12, 14",0.0,3,chatgpt,inquisitive
+13,What are some examples of consumer products that may contain nanotechnology?,0,2,0,3,"3, 22",3,0.6666666667,3,chatgpt,inquisitive
+13,How does the use of nanotechnology in consumer products differ from traditional manufacturing methods?,2,2,3,24,24,"3, 4, 24",2.333333333,3,chatgpt,inquisitive
+13,What are the potential benefits and drawbacks of using nanotechnology in consumer products?,3,3,3,"2, 3, 4, 7, 8, 17, 22, 28-34, 36-38, 55","25, 55","3, 6, 7, 18, 22, etc",3.0,3,chatgpt,inquisitive
+16,How did ancient civilizations discover that silver could treat open wounds?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+16,What specific properties of silver make it effective in killing germs?,0,0,0,15,15,"15,17",0.0,3,chatgpt,inquisitive
+16,How did American pioneers come to the conclusion that silver coins could keep water fresh?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+16,Were there any other uses for silver in ancient civilizations besides treating open wounds?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+16,How did the knowledge of silver's antimicrobial properties get passed down through generations?,1,1,1,,,,1.0,3,chatgpt,inquisitive
+4,What are nano-sized silver?,3,3,3,"5, 17","5, 17","5, 17",3.0,3,llama,inquisitive
+4,What are the various materials that the manufacturers are able to incorporate the nano-sized silver into?,0,2,0,3,"3, 22",3,0.6666666667,3,llama,inquisitive
+4,What are some examples of products that are made possible by these advances in technology?,2,2,2,"3, 22","(3), 22","3, 22",2.0,3,llama,inquisitive
+4,How does the incorporation of nano-sized silver into these products help to kill germs?,3,3,3,"15, 17",15,"15, 17, 18",3.0,3,llama,inquisitive
+4,What is the significance of the fact that these advances in technology allow manufacturers to create nano-sized silver?,2,3,2,6,8,"6, 9",2.333333333,3,llama,inquisitive
+7,What is triclosan?,0,0,0,7,7,7,0.0,3,llama,inquisitive
+7,How does triclosan lose its power to fight infections?,0,2,0,7,34,7,0.6666666667,3,llama,inquisitive
+7,What is the relationship between triclosan and bacteria?,0,0,0,7,7,7,0.0,3,llama,inquisitive
+7,"How does the use of triclosan in soaps, cosmetics, and other commercial goods affect the environment?",1,1,1,the impact of nanonsilver on the environment is discussed,,,1.0,3,llama,inquisitive
+7,What are some potential health risks associated with exposure to triclosan?,1,1,1,"like the question above, potential risks of nanosilver exposure are discussed, but not triclosan specifically (it is not stated whether it is triclosan that makes nanosilver potentially harmful) ",,,1.0,3,llama,inquisitive
+10,What does the U.S. Environmental Protection Agency recently began requiring manufacturers of nanosilver to register their products?,0,0,0,grammar error - not sure what the question is asking,Grammar error makes this question unintelligible.,,0.0,3,llama,inquisitive
+10,What does the sentence mean by saying the particles could pose different risks than conventional silver?,2,3,3,24,25,"25, 26",2.666666667,3,llama,inquisitive
+10,What is the purpose of requiring manufacturers to register their products?,2,2,2,11,11,"10, 11",2.0,3,llama,inquisitive
+10,"What is the significance of the phrase ""it's important to prove it's worth taking the risk before we put it in the environment""?",2,2,2,11,54-55,"25, 26, 28",2.0,3,llama,inquisitive
+10,What does the sentence imply about the potential risks of using nanosilver?,0,0,0,10,10,10,0.0,3,llama,inquisitive
+13,Who is Emma Fauss?,0,0,0,13,13,13,0.0,3,llama,inquisitive
+13,What is the Pew project?,0,0,0,8,8,8,0.0,3,llama,inquisitive
+13,What did Emma Fauss compile in 2008?,0,0,0,13,13,13,0.0,3,llama,inquisitive
+13,"What does ""inventoried"" mean in this context?",1,1,1,,,,1.0,3,llama,inquisitive
+13,What is the significance of the year 2008 in this sentence?,1,1,1,,,,1.0,3,llama,inquisitive
+16,What kind of wounds did ancient civilizations use silver to treat?,0,0,0,16,16,16,0.0,3,llama,inquisitive
+16,Why did American pioneers toss silver coins into water storage barrels?,0,0,0,16,16,16,0.0,3,llama,inquisitive
+16,How did silver keep water fresh?,0,0,0,15,15,15,0.0,3,llama,inquisitive
+16,Was there a specific type of silver used for these purposes?,1,1,1,,,,1.0,3,llama,inquisitive
+16,How does silver oxidize and release silver ions to kill germs?,1,1,1,,,,1.0,3,llama,inquisitive
+4,What is the significance of the box overflowing with keyboards and wires in the scrap yard?,2,2,2,7,"7, 22",15,2.0,4,chatgpt,inquisitive
+4,Who is responsible for collecting and storing these keyboards and wires in the box?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+4,Are the keyboards and wires in the box still functional or are they considered obsolete?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+4,How did the keyboards and wires end up in the scrap yard? Were they discarded by individuals or businesses?,2,2,2,"7 - two questions, they are partially answered by 7",7,"7, 15",2.0,4,chatgpt,inquisitive
+4,"Is there a specific reason why the box is overflowing with keyboards and wires, or is it simply a result of accumulation over time?",1,1,1,,,,1.0,4,chatgpt,inquisitive
+7,How many boxes were there in total with the blue NASA logo sticker?,0,0,1,6,6,,0.3333333333,4,chatgpt,inquisitive
+7,What is the significance of the blue NASA logo on the boxes?,3,3,3,16,"16, 22",16,3.0,4,chatgpt,inquisitive
+7,What items or equipment were stored inside the boxes with the NASA logo?,2,2,2,"4, 8","4, 8",8,2.0,4,chatgpt,inquisitive
+7,Who placed the blue NASA logo stickers on the boxes?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+7,Why were the boxes left in a scrap yard instead of being stored or utilized elsewhere?,3,3,3,24,24,24,3.0,4,chatgpt,inquisitive
+10,How heavy are the escape baskets?,2,2,2,10,10,10,2.0,4,chatgpt,inquisitive
+10,What materials are the escape baskets made of?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+10,How were the escape baskets originally attached to the shuttle?,0,0,0,9,9,9,0.0,4,chatgpt,inquisitive
+10,How many escape baskets were there in total?,0,0,0,9,9,9,0.0,4,chatgpt,inquisitive
+10,What is the purpose of the escape baskets besides sliding astronauts to safety?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+13,"What made Jenkins say ""Perfect""?",0,0,0,"10, 11",11,"11, 12",0.0,4,chatgpt,inquisitive
+13,What was the purpose of the canvas flap that Jenkins tucked back into place?,1,0,1,,2,,0.6666666667,4,chatgpt,inquisitive
+13,How did the rain affect the condition of the escape baskets?,1,1,1,,,,1.0,4,chatgpt,inquisitive
+13,How did the crew manage to move the 7-foot-tall contraptions?,0,0,0,10,10,10,0.0,4,chatgpt,inquisitive
+13,What specific role does Jenkins have in this operation?,3,3,3,18,18,"15, 16, 18",3.0,4,chatgpt,inquisitive
+16,What specific parts are needed to create the display of the orbiter on the launch pad?,3,2,3,"50, 51, 54","50,51, 54","50,51, 54",2.666666667,4,chatgpt,inquisitive
+16,How many pieces are required in total to complete the display?,0,0,0,16,16,16,0.0,4,chatgpt,inquisitive
+16,"Where are the NASA facilities, museums, and other places across the U.S. where the parts are currently scattered?",3,3,3,49,49,"49, 55, 62",3.0,4,chatgpt,inquisitive
+16,How will the California Science Center coordinate the retrieval of the scattered parts?,2,3,2,18,18,"18, 40",2.333333333,4,chatgpt,inquisitive
+16,What challenges or obstacles might arise in the process of gathering all the necessary pieces for the display?,3,3,3,"18, 24, 25, 45, 47",45,"45, 46, 47",3.0,4,chatgpt,inquisitive
+4,What is the size of the box?,1,1,1,,,,1.0,4,llama,inquisitive
+4,How many keyboards and wires are in the box?,1,1,1,,,,1.0,4,llama,inquisitive
+4,Why is the box overflowing with keyboards and wires?,1,1,1,,,,1.0,4,llama,inquisitive
+4,Where is the box located?,0,0,0,3,3,3,0.0,4,llama,inquisitive
+4,How does the box relate to the space shuttle launch?,2,2,2,7,7,"7, 8",2.0,4,llama,inquisitive
+7,What is the size of the sticker?,1,1,1,,,,1.0,4,llama,inquisitive
+7,What is the color of the sticker?,0,0,0,7,7,7,0.0,4,llama,inquisitive
+7,How many boxes are in the mountain of cardboard boxes?,1,1,1,,,,1.0,4,llama,inquisitive
+7,How many sides does the box with the keyboard and wires have?,1,1,1,,,,1.0,4,llama,inquisitive
+7,What is the purpose of the stickers?,2,2,2,9,8-9,"8,9",2.0,4,llama,inquisitive
+10,"What is the meaning of the word ""critical"" in this context?",1,1,1,,,,1.0,4,llama,inquisitive
+10,"What does the phrase ""handle with extreme care"" mean in this context?",1,1,1,,,,1.0,4,llama,inquisitive
+10,What is the purpose of the baskets in the context of the story?,2,3,3,16,"9, 16","10, 16, 18",2.666666667,4,llama,inquisitive
+10,What is the function of the forklift in moving the baskets?,0,0,0,10,10,10,0.0,4,llama,inquisitive
+10,"What does it mean to ""set it into a trailer""?",1,1,1,,,,1.0,4,llama,inquisitive
+13,Who is Jenkins?,3,3,3,15,14-15,"14, 15",3.0,4,llama,inquisitive
+13,What is the context of the sentence?,0,0,0,this question is very vague and could be answered in a number of ways; i answered based on the sentence being the anchor,11,"10, 11, 12",0.0,4,llama,inquisitive
+13,What is the purpose of Jenkins' thumbs-up?,0,0,0,10,11,13,0.0,4,llama,inquisitive
+13,"What does the word ""critical"" mean in the context of the sentence?",1,1,1,,,,1.0,4,llama,inquisitive
+13,What is the significance of the escape baskets?,0,3,3,9,"16, 18","16, 18",2.0,4,llama,inquisitive
+16,What is the Exposition Park museum's crown jewel?,0,0,0,"15, 16",15,15,0.0,4,llama,inquisitive
+16,Where are the parts scattered?,3,3,3,49,49,"16,49",3.0,4,llama,inquisitive
+16,What does it mean to pull off a display?,1,1,1,,,,1.0,4,llama,inquisitive
+16,How will they showcase the crown jewel as if it's on the launch pad?,3,3,3,18,18,18,3.0,4,llama,inquisitive
+16,What is the significance of this display?,0,0,0,16,16,16,0.0,4,llama,inquisitive
+1,How are these exports eluding tracing efforts?,3,3,3,16,"14, 16","3, 16",3.0,1439,human,inquisitive
+1,What definite information does the report provide about U.S. nuclear exports?,3,3,3,"9, 12, 14","7, 9",9,3.0,1439,human,inquisitive
+1,What tracing efforts are currently in place?,3,3,3,"12, 16","12, 16","9, 11, 19",3.0,1439,human,inquisitive
+1,How much nuclear material is being exported?,1,2,1,,9,,1.333333333,1439,human,inquisitive
+2,Does Glenn think that U.S.-made nuclear material is being traded on the black market?,3,3,0,"2, 3, 2004",3,2,2.0,1439,human,inquisitive
+2,What is Glenn's connection to the report?,3,3,3,5,5,5,3.0,1439,human,inquisitive
+2,What has the wider reaction to the report been?,2,1,2,18,,"24, 26",1.666666667,1439,human,inquisitive
+3,How much contraband nuclear material is in existence?,1,1,1,,,,1.0,1439,human,inquisitive
+7,What restrictions exist on nuclear material exports?,3,3,3,8,8,8,3.0,1439,human,inquisitive
+9,How significant is the difference in the U.S. and Japanese records?,0,0,0,9,9,9,0.0,1439,human,inquisitive
+9,Is this discrepancy concerning to U.S. officials?,2,2,2,"11, 12",11,"10, 11",2.0,1439,human,inquisitive
+9,Why might there be discrepancies between the U.S. and Japanese figures?,3,3,3,12,12,12,3.0,1439,human,inquisitive
+9,Why is Japan the country focused on in the report?,1,1,0,,,9,0.6666666667,1439,human,inquisitive
+11,Was Trulock involved with the report?,3,3,3,17,17,17,3.0,1439,human,inquisitive
+13,How is EURATOM structured?,2,2,3,"(13), 14",14,14,2.333333333,1439,human,inquisitive
+16,Does the treatment of EURATOM countries as a unit add to difficulties in tracing nuclear materials?,0,0,0,16,"14, 16",16,0.0,1439,human,inquisitive
+19,Has the Department of Energy's failure to update their system been criticized?,1,1,3,,,20,1.666666667,1439,human,inquisitive
+4,What is nano-sized silver?,3,3,3,"5, 17","5, 17","5, 17",3.0,3,mistral,inquisitive
+4,How does technology allow manufacturers to create nano-sized silver?,0,1,1,4,,,0.6666666667,3,mistral,inquisitive
+4,What are the benefits of using nano-sized silver in products?,3,3,3,"17, 21, 22, 29,",29,"17, 20, 22",3.0,3,mistral,inquisitive
+4,How does nano-sized silver work to kill microbes?,3,3,1,"15, 17",15,,2.333333333,3,mistral,inquisitive
+4,Are there any potential risks or drawbacks to using nano-sized silver in products?,3,3,2,"6, 26-28, 31-34, 38","6, 7","24, 26, 28",2.666666667,3,mistral,inquisitive
+7,How does triclosan work?,1,1,1,,,,1.0,3,mistral,inquisitive
+7,What are the potential risks associated with triclosan?,1,1,1,,,,1.0,3,mistral,inquisitive
+7,How does triclosan become resistant to bacteria?,1,2,1,,"8, 34",,1.333333333,3,mistral,inquisitive
+7,What are some alternatives to triclosan?,1,1,1,,,,1.0,3,mistral,inquisitive
+10,What are the potential risks associated with chronic exposure to nanosilver particles?,2,3,2,"6, 50",25,"30, 31, 33",2.333333333,3,mistral,inquisitive
+10,How effective are antibacterial products that contain nanosilver in killing microbes?,2,2,2,18,29,"17, 18",2.0,3,mistral,inquisitive
+10,What is the difference between conventional silver and nanosilver?,2,3,3,"(3-5), 10",17,17,2.666666667,3,mistral,inquisitive
+10,How do bacteria become resistant to silver?,2,2,2,34,"(8), 34","6, 7, 34",2.0,3,mistral,inquisitive
+10,What are the concerns of scientists and environmental watchdog groups about the use of nanosilver?,3,3,0,"(6, 8, 10), 25, 31, 35",25,6,2.0,3,mistral,inquisitive
+13,What is nanotechnology?,1,0,1,,13,,0.6666666667,3,mistral,inquisitive
+13,What is the difference between nanosilver and conventional silver?,0,3,3,"3-5, 10",17,17,2.0,3,mistral,inquisitive
+13,What are the potential risks associated with chronic exposure to nanosilver?,2,3,2,"6, 50",25,"30, 31, 33",2.333333333,3,mistral,inquisitive
+13,What is the U.S. Environmental Protection Agency's process for regulating nanosilver products?,3,3,0,"42, 43, 44","(10), 44",10,2.0,3,mistral,inquisitive
+13,How can consumers tell if a product contains nano-sized silver?,2,0,1,"(12), 48",12,,1.0,3,mistral,inquisitive
+16,What specific methods did ancient civilizations use to treat open wounds with silver?,1,1,1,,,,1.0,3,mistral,inquisitive
+16,How did American pioneers use silver coins to keep water fresh?,0,0,0,"15, 16",16,16,0.0,3,mistral,inquisitive
+16,Was silver used for any other purposes besides treating wounds and keeping water fresh in ancient civilizations and by American pioneers?,1,1,1,,,,1.0,3,mistral,inquisitive
+16,How did the use of silver for these purposes evolve over time?,3,3,3,20-24,"(2, 3),  20",20,3.0,3,mistral,inquisitive
+16,Are there any modern-day equivalents to the use of silver for treating wounds and keeping water fresh?,3,2,2,"20, 21","(2, 3),  20","2, 20",2.333333333,3,mistral,inquisitive
+4,What is the significance of the scrap yard in relation to the space shuttle launch?,2,3,2,"(3), 18","7, 25","18, (3 fully but before)",2.333333333,4,mistral,inquisitive
+4,What is the purpose of the box overflowing with keyboards and wires?,1,1,1,,,,1.0,4,mistral,inquisitive
+4,"What is the context of the sentence, and what is the author trying to convey?",0,0,0,4,3,Multiple questions,0.0,4,mistral,inquisitive
+4,"What is the weather like in the sentence, and how does it relate to the space shuttle launch?",0,0,0,3,"1, 2",Multiple questions,0.0,4,mistral,inquisitive
+4,"Who is Dennis Jenkins, and what is his role in the sentence?",0,2,0,"14, 28, 32, 40-41","14, 15",Multiple questionss,0.6666666667,4,mistral,inquisitive
+7,What was the purpose of the scrap yard?,0,3,2,3,25,18,1.666666667,4,mistral,inquisitive
+7,How many shuttles were launched from this location?,1,1,1,,,,1.0,4,mistral,inquisitive
+7,What was the significance of the NASA logo on the cardboard boxes?,3,3,3,"18, 19","(7), 25","8, 9",3.0,4,mistral,inquisitive
+7,What was the condition of the cardboard boxes before the rain started?,1,1,1,,,,1.0,4,mistral,inquisitive
+7,Was there any indication of what the contents of the boxes were?,0,3,2,4,"(4), 8",8,1.666666667,4,mistral,inquisitive
+10,What were the escape baskets used for?,2,0,0,"(9), 16",9,9,0.6666666667,4,mistral,inquisitive
+10,How many escape baskets were in the scrap yard?,2,0,1,"(10), 65",9,,1.0,4,mistral,inquisitive
+10,What was the purpose of the forklifts used to move the escape baskets?,0,0,0,10,10,10,0.0,4,mistral,inquisitive
+10,How long did it take to move all the escape baskets?,1,1,1,,,,1.0,4,mistral,inquisitive
+10,What was the condition of the escape baskets before they were moved?,1,1,1,,,,1.0,4,mistral,inquisitive
+13,What is the purpose of the escape baskets?,2,3,3,"(9), 16",16,"16, 18",2.666666667,4,mistral,inquisitive
+13,What is the significance of the NASA logo on the cardboard boxes?,3,3,2,"18, 19","(7), 25","18 ,19",2.666666667,4,mistral,inquisitive
+13,How long have the escape baskets been in the scrap yard?,1,2,1,,19,,1.333333333,4,mistral,inquisitive
+13,What is the significance of the chain-link fence in relation to the escape baskets?,1,1,0,,I'm not sure how to mark this since the question doesn't make sense logically so I just marked it as 1.,9,0.6666666667,4,mistral,inquisitive
+13,"What is the context of the sentence ""It was the type of weather that would have scrubbed a space shuttle launch""?",0,0,0,"2, 3",3,3,0.0,4,mistral,inquisitive
+16,What is the name of the museum in Exposition Park that wants to showcase Endeavour?,0,0,0,16,16,16,0.0,4,mistral,inquisitive
+16,What is the significance of Endeavour being showcased as if it's on the launch pad?,0,0,0,2,16,16,0.0,4,mistral,inquisitive
+16,How many pieces are required to pull off this display?,0,0,0,16,16,16,0.0,4,mistral,inquisitive
+16,Where are the parts scattered that are needed for this display?,3,3,3,"(16), 18, 49, 55, 62, 65",49,"(16), 49, 55, 62",3.0,4,mistral,inquisitive
+16,What is the purpose of the display?,0,0,0,16,16,16,0.0,4,mistral,inquisitive
+4,What is the definition of institutional investors?,1,0,0,,4,,0.3333333333,1927,mistral,tedq
+4,How do institutional investors differ from individual investors in terms of their influence on sustainability?,3,2,2,"86, 94",86,"86, 89",2.333333333,1927,mistral,tedq
+4,What are some examples of large institutional investors that have a significant impact on sustainability?,3,3,3,"64-66, 68-70, ","65, 69","32, 37, 64, 65",3.0,1927,mistral,tedq
+4,How do institutional investors typically approach sustainability in their investment decisions?,2,3,3,"66, 70",76,"26, 27",2.666666667,1927,mistral,tedq
+4,Are there any challenges or limitations to institutional investors' influence on sustainability?,1,3,3,,76,76,2.333333333,1927,mistral,tedq
+7,What are the main drivers of population growth and aging?,1,1,1,,,,1.0,1927,mistral,tedq
+7,How do natural resource consumption rates affect the environment?,0,1,1,7,,,0.6666666667,1927,mistral,tedq
+7,What are the main sources of emissions that contribute to climate change?,1,1,1,,,,1.0,1927,mistral,tedq
+7,How do institutional investors influence sustainability?,3,3,3,86,"(5), 22",86,3.0,1927,mistral,tedq
+7,What are the potential long-term consequences of ignoring sustainability in investing?,0,3,2,3,96,96,1.666666667,1927,mistral,tedq
+10,"What do you mean by ""really complex""?",0,0,0,"8, 9",10 - the question is technically answered by the anchor.,10,0.0,1927,mistral,tedq
+10,How do environmental and social issues relate to economic issues?,3,3,3,"21, 22, 56-57, 73",22,"21, 22",3.0,1927,mistral,tedq
+10,What are some examples of how these issues can seem far off?,1,1,1,,,,1.0,1927,mistral,tedq
+10,How can burying our heads in the sand and not thinking about these issues jeopardize future long-term returns?,1,2,2,,96,"22, 96",1.666666667,1927,mistral,tedq
+10,What are some ways that institutional investors can influence sustainability?,3,3,3,"21, 86, 94","66, 70","16, 17, 18, 19",3.0,1927,mistral,tedq
+13,What are the specific investment rules that the author is referring to?,3,3,3,14,14,14,3.0,1927,mistral,tedq
+13,How do these investment rules relate to sustainability?,3,2,2,21,16,"21, 22",2.333333333,1927,mistral,tedq
+13,What are the potential consequences of ignoring sustainability in investing?,0,3,2,7,96,"(7), 96",1.666666667,1927,mistral,tedq
+13,"How do institutional investors, such as pension funds, foundations, and endowments, influence sustainability?",3,3,3,86,22,86,3.0,1927,mistral,tedq
+13,What are some examples of sustainable investments that are better-performing than traditional investments?,2,2,3,56-57,"56, 57","33, 34",2.333333333,1927,mistral,tedq
+16,"What is the definition of ESG (Environment, Social, and Governance) metrics?",3,3,3,17-19,"17, 18, 19","17, 18, 19",3.0,1927,mistral,tedq
+16,How do ESG metrics relate to the financial data and metrics that investors typically look at when making investment decisions?,2,2,2,"21, 22",21,"21, 22",2.0,1927,mistral,tedq
+16,What are some examples of ESG issues that investors should consider when evaluating a company's performance?,3,3,3,17-19,"17, 18, 19","17, 18, 19",3.0,1927,mistral,tedq
+16,How do ESG issues relate to risk and return for investors?,3,3,3,"(9), 22, 66",22,22,3.0,1927,mistral,tedq
+16,Are there any specific challenges or obstacles that institutional investors may face when incorporating ESG metrics into their investment decision-making process?,3,3,2,95-98,76,76,2.666666667,1927,mistral,tedq
+4,What do you mean by balance of power?,1,0,1,,4,,0.6666666667,1927,llama,tedq
+4,What is the context of the power that institutional investors have?,0,0,0,4,4,4,0.0,1927,llama,tedq
+4,What are some examples of sustainability issues that institutional investors can influence?,3,3,3,16-19,7,"16, 17, 18, 19",3.0,1927,llama,tedq
+4,How do institutional investors use their power to influence sustainability?,3,3,3,86,"21, 22","22, 32",3.0,1927,llama,tedq
+4,Can you give an example of a specific company that institutional investors have influenced to improve their sustainability practices?,3,3,3,"65-66, 68-70","65, 69","32, 38, 65",3.0,1927,llama,tedq
+7,How many people are there in the world today?,1,0,0,,7,7,0.3333333333,1927,llama,tedq
+7,How many people will there be at the end of the century?,0,0,0,7,7,7,0.0,1927,llama,tedq
+7,What are the natural resources that we consume faster than they can be replenished?,0,1,1,7,,,0.6666666667,1927,llama,tedq
+7,What are the emissions that are mainly responsible for climate change?,3,1,1,34,,,1.666666667,1927,llama,tedq
+7,How does the population growth and consumption of natural resources affect the environment?,0,1,1,7,,,0.6666666667,1927,llama,tedq
+10,"What does Chris McKnett mean by ""really juicy things""?",3,0,0,16-20,2,2,1.0,1927,llama,tedq
+10,What is the definition of sustainability according to Chris McKnett?,0,0,0,2,2,2,0.0,1927,llama,tedq
+10,Why does Chris McKnett think that investors are not paying enough attention to sustainability?,0,3,3,"1, 3, 2004",76,"45, 46, 76",2.0,1927,llama,tedq
+10,What is the role of institutional investors according to Chris McKnett in influencing sustainability?,2,3,3,"(4), 22","21, 22","22, 16",2.666666667,1927,llama,tedq
+10,What is the relationship between sustainability and risk and return according to Chris McKnett?,0,3,3,8-9,22,22,2.0,1927,llama,tedq
+13,"What does the author mean by ""investment rules""?",3,3,3,14,14,14,3.0,1927,llama,tedq
+13,What is the author suggesting about the current investment rules?,2,3,3,"15, 16","15, 16",15,2.666666667,1927,llama,tedq
+13,What is the author implying about the future of investment?,2,3,3,"22, 27",16,16,2.666666667,1927,llama,tedq
+13,Why is the author using humor in this sentence?,0,1,1,misinterpretation of context,,,0.6666666667,1927,llama,tedq
+13,What is the author's attitude towards investors who ignore sustainability issues?,0,3,3,3,77,"76, 77",2.0,1927,llama,tedq
+16,What do we mean by environment in this context?,3,3,3,17,17,17,3.0,1927,llama,tedq
+16,What are the performance metrics that investors should look at in ESG?,3,3,3,17-19,"17, 18, 19","17, 18, 19",3.0,1927,llama,tedq
+16,Why do you think investors should look at these metrics?,3,3,3,22,22,"21,22",3.0,1927,llama,tedq
+16,How do these metrics relate to risk and return?,3,3,3,"(9), 66",22,22,3.0,1927,llama,tedq
+16,Can you give an example of a company that has been successful in this area?,3,3,3,"32, 38","32, 38, 65, 69","32, 38, 65",3.0,1927,llama,tedq
+1,What are the drivers of change?,3,3,3,2,2,2,3.0,1927,human,tedq
+2,Are those things important?,2,3,3,3,3,3,2.666666667,1927,human,tedq
+3,Why it's reckless to ignore them?,2,3,2,"(3), 7, 9","(3), 96, 97","3, 7,22",2.333333333,1927,human,tedq
+3,What are the consequences if people ignore sustainability?,2,3,2,"(3), 7, 9","(3), 96, 97","7, 22",2.333333333,1927,human,tedq
+5,Why is sustainable investing so important?,3,3,3,"9, 22",22,"7, 9",3.0,1927,human,tedq
+6,What we already know?,3,3,3,7,7,7,3.0,1927,human,tedq
+7,Explain sustainable investing to me?,3,3,3,22,"21, 22","16, 17, 18, 19",3.0,1927,human,tedq
+7,How can we replenish resources faster?,1,1,1,,,,1.0,1927,human,tedq
+7,What kind of problems will the growing population cause?,1,1,1,,,,1.0,1927,human,tedq
+7,Why is a growing population a problem?,0,2,0,7,8,7,0.6666666667,1927,human,tedq
+7,Will the number continue to grow,1,1,1,,,,1.0,1927,human,tedq
+7,What does the population number have to do with investing?,3,2,2,"8, 18, 22","9, 21, 22","9, 22",2.333333333,1927,human,tedq
+7,How much longer do we have with current resources?,1,1,1,,,,1.0,1927,human,tedq
+7,How does the growing population effect the investment market and sustainable products?,2,2,2,"9, 21","9, 21, 22","9, 18, 22",2.0,1927,human,tedq
+8,Are environmental and social issues important,2,3,3,9,9,"9, 16, 22",2.666666667,1927,human,tedq
+9,How are they relevant?,3,3,3,"(9). 21, 22","21, 22","22, 16, 18",3.0,1927,human,tedq
+9,How are they relevant to risk and return?,0,3,3,9,"21, 22",22,2.0,1927,human,tedq
+10,are all gonna die,0,0,0,cut off question,I'm not sure what this asking.,,0.0,1927,human,tedq
+11,How do we resist this?,1,1,1,,,,1.0,1927,human,tedq
+11,Will there be consequences for burying our heads in the sand?,3,3,2,94-97,"96, 97","96, 97, 22",2.666666667,1927,human,tedq
+12,What are some examples of how individuals avoid responsibility?,2,2,2,"76, 77",76,76,2.0,1927,human,tedq
+13,Do investors not take everything into consideration that they should?,2,3,3,16,16,"14, 15",2.666666667,1927,human,tedq
+14,"What should they be looking at, if not financial data and metrics?",3,3,3,16,16,16,3.0,1927,human,tedq
+14,"What is the earths ""financial data?""",0,1,1,misinterpreted context?,NA - I'm not really sure what this is asking based off the context.,,0.6666666667,1927,human,tedq
+15,what is the market place supposed to do,0,0,3,misinterpreted context,I believe this question is misunderstanding the context of the anchor sentence.,16,1.0,1927,human,tedq
+4,What is the reason for the skepticism that Russia's war in Chechnya can be ended across a negotiating table?,3,2,3,"(4), 7, 9","4, 9, and 7","5, 6, 7, 9",2.6666666666666665,1440,mistral,inquisitive
+4,What is the role of Ingushetia in the peace talks?,0,0,0,1,1,1,0.0,1440,mistral,inquisitive
+4,What is the mechanism for exchanging prisoners of war and the dead that was agreed upon in principle?,1,1,1,,,,1.0,1440,mistral,inquisitive
+4,What are the reports of Chechen missile attacks southwest of the Chechen capital?,0,0,1,4,4 - I'm not sure how to interpret this question.,,0.3333333333333333,1440,mistral,inquisitive
+4,What is the significance of the limited cease-fire agreement that was reached?,0,0,0,"2, 4",2,4,0.0,1440,mistral,inquisitive
+7,"What is meant by ""feisty Chechens""?",0,0,0,5,7,7,0.0,1440,mistral,inquisitive
+7,What were the previous offers made by Moscow to the Chechens?,1,0,1,,6,,0.6666666666666666,1440,mistral,inquisitive
+7,Why were these previous offers ignored by the Chechens?,1,1,1,,,,1.0,1440,mistral,inquisitive
+7,What are the current negotiations about in the peace talks?,2,1,3,8,,"9, 11, 12",2.0,1440,mistral,inquisitive
+7,What is the current status of the cease-fire agreement?,0,0,0,4,4,4,0.0,1440,mistral,inquisitive
+10,Who is Emil Pain?,0,0,0,10,10,10,0.0,1440,mistral,inquisitive
+10,What is his role in the Russian government?,0,0,0,10,10,10,0.0,1440,mistral,inquisitive
+10,What is his relationship with President Boris Yeltsin?,0,0,0,10,10,10,0.0,1440,mistral,inquisitive
+10,What is his opinion on the ongoing conflict in Chechnya?,0,0,0,10,10,10,0.0,1440,mistral,inquisitive
+10,"What does he mean by ""cooling period after combat operations""?",1,0,0,,10,10,0.3333333333333333,1440,mistral,inquisitive
+13,What is the name of the town where the peace talks are scheduled to resume?,0,0,0,1,8,2,0.0,1440,mistral,inquisitive
+13,What is the name of the Russian Prime Minister who made the statement about talking to individual field commanders?,0,0,0,6,6,6,0.0,1440,mistral,inquisitive
+13,What is the name of the Russian commander of troops in Chechnya who will represent the Russian side in the peace talks?,0,0,0,8,8,8,0.0,1440,mistral,inquisitive
+13,What is the name of the Chechen President who is represented in the peace talks by Aslan Maskhadov?,0,0,0,5,5,5,0.0,1440,mistral,inquisitive
+13,"What is the name of the Russian adviser who said a ""cooling period after combat operations"" is needed before negotiations could take place?",0,0,0,10,10,10,0.0,1440,mistral,inquisitive
+16,What were the specific questions that British Foreign Secretary Douglas Hurd asked Russian Foreign Minister Andrei Kozyrev during the meetings in Stockholm?,1,0,1,,15,,0.6666666666666666,1440,mistral,inquisitive
+16,"Who were the Swedish hosts of the meetings between British Foreign Secretary Douglas Hurd, Russian Foreign Minister Andrei Kozyrev, and their respective hosts?",1,1,1,,,,1.0,1440,mistral,inquisitive
+16,"What were the goals of the meetings between British Foreign Secretary Douglas Hurd, Russian Foreign Minister Andrei Kozyrev, and their respective hosts?",0,0,0,15,15,15,0.0,1440,mistral,inquisitive
+16,"How long did the meetings between British Foreign Secretary Douglas Hurd, Russian Foreign Minister Andrei Kozyrev, and their respective hosts last?",1,1,1,,,,1.0,1440,mistral,inquisitive
+16,"What was the outcome of the meetings between British Foreign Secretary Douglas Hurd, Russian Foreign Minister Andrei Kozyrev, and their respective hosts?",1,1,1,,,,1.0,1440,mistral,inquisitive
+4,What is the location of the artillery fire in Grozny?,0,0,0,4,4,4,0.0,1440,llama,inquisitive
+4,What is the source of the Chechen missile attacks?,0,3,0,4,5,4,1.0,1440,llama,inquisitive
+4,How far southwest of the Chechen capital are the missile attacks occurring?,1,1,1,,,,1.0,1440,llama,inquisitive
+4,Are there any casualties reported from the missile attacks?,1,1,1,,,,1.0,1440,llama,inquisitive
+4,What is the significance of the reports of Chechen missile attacks?,0,2,0,"2, 4",5,4,0.6666666666666666,1440,llama,inquisitive
+7,"What is meant by the term ""feisty Chechens""?",0,0,0,5,7,7,0.0,1440,llama,inquisitive
+7,Why have similar offers been ignored by the Chechens in the past?,1,1,1,,,,1.0,1440,llama,inquisitive
+7,"What do you think the author of this article means by ""Similar offers in the past have been ignored by the feisty Chechens""?",0,0,0,5,7,7,0.0,1440,llama,inquisitive
+7,"What is the significance of the term ""feisty Chechens""?",0,1,1,5,,,0.6666666666666666,1440,llama,inquisitive
+7,"How does the author of this article use the term ""feisty Chechens""?",0,0,0,7,7,7,0.0,1440,llama,inquisitive
+10,Who is Emil Pain?,0,0,0,10,10,10,0.0,1440,llama,inquisitive
+10,What is the context of the quote from Emil Pain?,0,2,2,10,"(9), 11",11,1.3333333333333333,1440,llama,inquisitive
+10,What does the quote mean?,0,0,0,7,10,10,0.0,1440,llama,inquisitive
+10,Why does Emil Pain think a cooling period is needed?,0,2,2,"7, 9","(9), 11",11,1.3333333333333333,1440,llama,inquisitive
+10,What does the quote suggest about the conflict in Chechnya?,0,1,0,9,,10,0.3333333333333333,1440,llama,inquisitive
+13,"What does the word ""untouched"" mean in this context?",0,0,0,12,13,13,0.0,1440,llama,inquisitive
+13,What does it mean that hardly a building is untouched?,0,0,0,12,13,13,0.0,1440,llama,inquisitive
+13,Why do you think the author used this phrase?,1,0,1,,12,,0.6666666666666666,1440,llama,inquisitive
+13,How does this phrase relate to the overall theme of the article?,1,1,1,,,,1.0,1440,llama,inquisitive
+13,What do you think the author is trying to convey through this sentence?,0,0,0,13,13,13,0.0,1440,llama,inquisitive
+16,Who are the 3 parties involved in the meetings?,0,0,0,16,16,16,0.0,1440,llama,inquisitive
+16,"What did the British Foreign Secretary, Douglas Hurd, discuss with the Russian Foreign Minister, Andrei Kozyrev?",0,0,0,15,15,"15, 16",0.0,1440,llama,inquisitive
+16,What was the purpose of the meetings according to the passage?,0,0,0,15,15,15,0.0,1440,llama,inquisitive
+16,Where did the meetings take place?,0,0,0,15,15,15,0.0,1440,llama,inquisitive
+16,What is the significance of the meetings according to the passage?,3,2,2,17,17,17,2.333333333333333,1440,llama,inquisitive
+1,what was the context around the decision to resume peace talks?,3,2,3,4,2,"2,3",2.6666666666666665,1440,human,inquisitive
+1,What is the political demographic of the Chechen army?,1,1,1,,,,1.0,1440,human,inquisitive
+1,Is there much optimism to be had for peace?,3,3,3,9,"(1), 9",9,3.0,1440,human,inquisitive
+1,What is the Russian perspective on the conflict?,3,3,3,"10, 14","14, 18",6,3.0,1440,human,inquisitive
+1,What has been the fallout of the war?,3,3,3,"11-14, 20","11, 12, 14","12, 13, 14",3.0,1440,human,inquisitive
+1,What has been the fallout of the war?,3,3,3,"11-14, 21","11, 13, 14","12, 13, 14",3.0,1440,human,inquisitive
+1,What has been the fallout of the war?,3,3,3,"11-14, 22","11, 14, 14","12, 13, 14",3.0,1440,human,inquisitive
+1,What are other countries' responses to the conflict?,2,3,3,"16, 20",15,15,2.6666666666666665,1440,human,inquisitive
+1,What is an economic impact of this war?,3,3,3,"14, 18-20","18, 20",18,3.0,1440,human,inquisitive
+2,What other progress has been made towards peace recently?,3,3,3,3,3,3,3.0,1440,human,inquisitive
+2,who is leading the peace talks?,1,2,2,,8,"5, 8",1.6666666666666667,1440,human,inquisitive
+2,Has the agreement been honored thus far?,3,3,3,4,4,4,3.0,1440,human,inquisitive
+5,"Since may Chechen's fight independently, how can a peace deal still be brokered?",2,3,3,6,6,"6, 8",2.6666666666666665,1440,human,inquisitive
+6,How successful are these talks with independent fighters?,3,3,3,"7, 9",7,7,3.0,1440,human,inquisitive
+12,How has Russia been affected by the war?,3,3,3,"14, 18-20","14, 18","14, 18",3.0,1440,human,inquisitive
+15,When did Sweden and Britain deliver this message?,0,3,2,15,16,16,1.6666666666666667,1440,human,inquisitive
+16,What is a quote from one of the ministers?,3,3,3,17,17,17,3.0,1440,human,inquisitive
+18,What is the economic impact for Chechnya?,3,0,3,"19, 20",12,19,2.0,1440,human,inquisitive
+18,what are the consequences for Russia for the war?,3,2,3,"14, 18-20","(14, 18), 20","18, 19, 20",2.6666666666666665,1440,human,inquisitive
+4,What was the reason behind the artillery fire in Grozny on Tuesday despite the agreed cease-fire?,2,2,2,5,5,5,2.0,1440,chatgpt,inquisitive
+4,How severe was the artillery fire in Grozny and were there any casualties reported?,0,0,0,multiple questions,Multiple questions. ,2 questions,0.0,1440,chatgpt,inquisitive
+4,What were the targets of the Chechen missile attacks southwest of the Chechen capital?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+4,Were there any casualties or damages caused by the Chechen missile attacks?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+4,Did the reports of artillery fire and missile attacks indicate a violation of the cease-fire agreement by either side?,0,2,0,4,5,4,0.6666666666666666,1440,chatgpt,inquisitive
+7,What were the previous offers made to the Chechens that were ignored?,0,0,1,7,6,,0.3333333333333333,1440,chatgpt,inquisitive
+7,Why did the Chechens choose to ignore these offers?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+7,How did the Chechens respond to these previous offers?,0,0,0,7,7,7,0.0,1440,chatgpt,inquisitive
+7,Did the previous offers have any specific conditions or requirements?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+7,How did the Russian government react to the Chechens ignoring the previous offers?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+10,"What does Emil Pain mean by a ""cooling period after combat operations""?",1,0,0,,10 - technically answered in the anchor sentence.,10,0.3333333333333333,1440,chatgpt,inquisitive
+10,"How long does Emil Pain believe this ""cooling period"" should be?",1,1,1,,,,1.0,1440,chatgpt,inquisitive
+10,"What are the specific reasons behind the need for a ""cooling period"" before negotiations?",0,0,0,9,9,"9,10",0.0,1440,chatgpt,inquisitive
+10,"Has a ""cooling period"" been implemented in previous conflicts before negotiations took place?",1,1,1,,,,1.0,1440,chatgpt,inquisitive
+10,"How does Emil Pain believe a ""cooling period"" would contribute to the success of the negotiations?",1,1,1,,,,1.0,1440,chatgpt,inquisitive
+13,Which buildings in Grozny have been the most heavily affected by the Russian offensive?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+13,How many buildings in Grozny have been completely destroyed?,1,0,1,,13,,0.6666666666666666,1440,chatgpt,inquisitive
+13,Are there any buildings in Grozny that have managed to remain untouched?,0,0,0,13,13,13,0.0,1440,chatgpt,inquisitive
+13,How has the destruction of buildings in Grozny affected the daily lives of its residents?,0,1,1,"11, 12",,,0.6666666666666666,1440,chatgpt,inquisitive
+13,"What efforts, if any, have been made to rebuild or repair the damaged buildings in Grozny?",1,1,1,,,,1.0,1440,chatgpt,inquisitive
+16,What were the specific questions that Britain and Sweden asked Russia's foreign minister about Moscow's goals in Chechnya?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+16,How did Russian Foreign Minister Andrei Kozyrev respond to the questions posed by Britain and Sweden?,1,1,1,,,,1.0,1440,chatgpt,inquisitive
+16,"What were the outcomes or conclusions of the meetings between British Foreign Secretary Douglas Hurd, Russian Foreign Minister Andrei Kozyrev, and their Swedish hosts?",1,2,1,,17,,1.3333333333333333,1440,chatgpt,inquisitive
+16,Did the meetings between the foreign ministers and their hosts lead to any new insights or developments regarding the situation in Chechnya?,2,2,3,"16, 17",17,"17, 18",2.333333333333333,1440,chatgpt,inquisitive
+16,How did the discussions between the foreign ministers and their hosts contribute to the overall international understanding of the conflict in Chechnya?,2,2,2,20,17,17,2.0,1440,chatgpt,inquisitive
