@@ -11,7 +11,7 @@ Datasets are organized as follows:
 - Training, validation, and testing sets: [train_val_test](./data/train_val_test)
 
 ### Installation and Usage
-The codebase is actively under construction. To set up your environment:
+The codebase is actively under construction.
 1. Install necessary packages using the provided requirements file:
    ```bash
    pip install -r requirements.txt
@@ -27,7 +27,7 @@ The codebase is actively under construction. To set up your environment:
    - `tiny-llama` (coming soon)
 
 ### Models
-Pre-trained models are available at the following links:
+Fine-tuned models are available at the following links:
 - [Salience Predict Mistral-Instruct](https://huggingface.co/lingchensanwen/mistral-ins-generation-best-balanced)
 - [Salience Predict Llama2-chat](https://huggingface.co/lingchensanwen/llama2-chat-generation-best-balanced)
 - [Salience Predict Flan T5-base](https://huggingface.co/lingchensanwen/t5_model_1st)
