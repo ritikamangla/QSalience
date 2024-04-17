@@ -13,7 +13,9 @@ Upsampled train, default val, default test can be found in [train_val_test](./da
 #### Code
 (Actively Under construction)
 - to install necessary packages, please use [requirements file provided](./code/requirements.txt)
+
 <code>$pip install -r requirements.txt</code>
+
 - To run evaluate script and reproduce our result, run <code>$python evaluate_score_final.py --model_name={}</code>
 
 model_name can be:
