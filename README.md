@@ -16,10 +16,10 @@ Upsampled train, default val, default test can be found in [train_val_test](./da
 
 #### Models
 The fine tuned models can be found in:
-- [Salience Predict Mistral-Instruct](lingchensanwen/mistral-ins-generation-best-balanced)
-- [Salience Predict Llama2-chat](lingchensanwen/llama2-chat-generation-best-balanced)
-- [Salience Predict Tinyllama-chat](lingchensanwen/tiny-llama-generation-best-balanced)
-- [Salience Predict Flan T5-base](lingchensanwen/t5_model_1st)
+- [Salience Predict Mistral-Instruct](https://huggingface.co/lingchensanwen/mistral-ins-generation-best-balanced)
+- [Salience Predict Llama2-chat](https://huggingface.co/lingchensanwen/llama2-chat-generation-best-balanced)
+- [Salience Predict Tinyllama-chat](https://huggingface.co/lingchensanwen/tiny-llama-generation-best-balanced)
+- [Salience Predict Flan T5-base](https://huggingface.co/lingchensanwen/t5_model_1st)
 
 
 ### Answerability
