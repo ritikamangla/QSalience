@@ -21,10 +21,10 @@ The codebase is actively under construction. To set up your environment:
    python evaluate_score_final.py --model_name=MODEL_NAME
    ```
    Replace `MODEL_NAME` with one of the following:
-   - `"mistral-ins"`
-   - `"llama2-chat"`
-   - `"t5"`
-   - `"tiny-llama"` (coming soon)
+   - `mistral-ins`
+   - `llama2-chat`
+   - `t5`
+   - `tiny-llama` (coming soon)
 
 ### Models
 Pre-trained models are available at the following links:
