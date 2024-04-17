@@ -18,7 +18,7 @@ The codebase is actively under construction.
    ```
 2. To run the evaluation script and reproduce our results:
    ```bash
-   python evaluate_score_final.py --model_name=MODEL_NAME
+   python evaluate_score_final.py --model_name="MODEL_NAME"
    ```
    Replace `MODEL_NAME` with one of the following:
    - `mistral-ins`
