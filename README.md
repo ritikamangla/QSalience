@@ -3,6 +3,19 @@
 ## :star2: Introduction
 QSalience introduces the first application-agnostic salience predictor for inquisitive questions. This project is fine-tuned over our newly annotated dataset of 1,766 (context, question) pairs with salience scores. We explore the usefulness of question salience in downstream applications such as TL;DR expansion.
 
+If you find our work useful or relevant to your research, please consider citing our paper.
+
+```
+@misc{wu2024questions,
+      title={Which questions should I answer? Salience Prediction of Inquisitive Questions}, 
+      author={Yating Wu and Ritika Mangla and Alexandros G. Dimakis and Greg Durrett and Junyi Jessy Li},
+      year={2024},
+      eprint={2404.10917},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## Salience
 
 ### Data Availability
