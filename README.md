@@ -6,13 +6,11 @@ QSalience introduces the first application-agnostic salience predictor for inqui
 If you find our work useful or relevant to your research, please consider citing our paper.
 
 ```
-@misc{wu2024questions,
-      title={Which questions should I answer? Salience Prediction of Inquisitive Questions}, 
-      author={Yating Wu and Ritika Mangla and Alexandros G. Dimakis and Greg Durrett and Junyi Jessy Li},
-      year={2024},
-      eprint={2404.10917},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{wu2024questions,
+  title={Which questions should I answer? Salience Prediction of Inquisitive Questions},
+  author={Wu, Yating and Mangla, Ritika and Dimakis, Alexandros G and Durrett, Greg and Li, Junyi Jessy},
+  journal={arXiv preprint arXiv:2404.10917},
+  year={2024}
 }
 ```
 
