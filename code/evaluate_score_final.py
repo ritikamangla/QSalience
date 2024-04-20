@@ -14,9 +14,12 @@ from scipy.stats import spearmanr
 import argparse
 from typing import List, Tuple
 from nltk.tokenize import sent_tokenize
-from datasets import Dataset, load_dataset, concatenate_datasets
+from datasets import Dataset, load_dataset
 from typing import List, Tuple
 from huggingface_hub import HfFolder
+import os
+DIR_PATH = os.path.dirname(__file__)
+print("Current Working Directory:", os.getcwd())
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -134,9 +137,9 @@ def merge_qlora_model(model_name, qlora_model):
 def evaluate_T5(model_name = "lingchensanwen/t5_model_1st", max_length=512):
     def load_data(model_type: str = "") -> Dataset:
 
-        data = load_dataset('json', data_files={'train': '/home/yw23374/QSalience/data/train_val_test/upsampled_train.json',
-                                                'val': '/home/yw23374/QSalience/data/train_val_test/val.json',
-                                                'test': '/home/yw23374/QSalience/data/train_val_test/test.json'} 
+        data = load_dataset('json', data_files={'train': os.path.join(DIR_PATH, '../data/train_val_test/upsampled_train.json'),
+                                                'val':  os.path.join(DIR_PATH,'../data/train_val_test/val.json'),
+                                                'test':  os.path.join(DIR_PATH,'../data/train_val_test/test.json')} 
                             )
         def process_question_data(examples):
             texts = []
@@ -281,7 +284,7 @@ def main():
     if args.model_name is not None:
         print("loading model from", args.model_name)
         model_name = args.model_name 
-        test_dataset = load_dataset_from_json("/home/yw23374/QSalience/data/train_val_test/test.json")
+        test_dataset = load_dataset_from_json(os.path.join(DIR_PATH,"../data/train_val_test/test.json"))
         if model_name == "mistral-ins":
             model, tokenizer = merge_qlora_model("mistralai/Mistral-7B-Instruct-v0.2", "lingchensanwen/mistral-ins-generation-best-balanced")
             evaluate_model(test_dataset, model, tokenizer, max_length=4096, model_name=model_name)
@@ -291,7 +294,7 @@ def main():
             evaluate_model(test_dataset, model, tokenizer, max_length=4096,model_name=model_name)
         
         elif model_name == "tiny-llama":
-            model, tokenizer = merge_qlora_model("TinyLlama/TinyLlama-1.1B-Chat-v1.0", "lingchensanwen/tiny-llama-generation-best-balanced")
+            model, tokenizer = merge_qlora_model("TinyLlama/TinyLlama-1.1B-Chat-v1.0", "lingchensanwen/tiny-llama-generation-best-balanced-new")
             evaluate_model(test_dataset, model, tokenizer, max_length=4096,model_name=model_name)
 
         elif model_name == "t5":
