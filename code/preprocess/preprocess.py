@@ -8,10 +8,9 @@ import argparse
 def format_data(question_df, articles_path):
 
     data = []
-    def get_context(article_id):
+    def get_context():
         context = []
-        path = articles_path
-        with open(path, "r", encoding='utf-8') as r:
+        with open(articles_path, "r", encoding='utf-8') as r:
             for line in r:
                 if line and line[0].isdigit():
                     line = re.sub(r"^\d+\s*", "", line).strip()
@@ -19,10 +18,9 @@ def format_data(question_df, articles_path):
         return context
 
     for _, row in question_df.iterrows():
-        context = get_context(row['article_id'])
+        context = get_context()
         current_sentence_id = row['sentence_id']
-        current_sentence = context[current_sentence_id-1]
-
+    
         data_object = {
         "instruction": '''
     Give a score from 1 to 5 for how important it is for the question to be answered later in the article.

@@ -45,7 +45,7 @@ pip install krippendorff
 
 2. Provide your text file then predict salience of your question:
    
-Provide your question_csv file and article_txt file and replace the path in following commend
+Provide your question_csv file and article_txt file and replace the path in following commend. Make sure question_csv has question and sentence_id columns.
 
 ```
 python preprocess.py --question_csv_path="example_question.csv" --article_txt_path="example_article.txt"
