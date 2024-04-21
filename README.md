@@ -22,9 +22,11 @@ Datasets are organized as follows:
 - Training, validation, and testing sets: [train_val_test](./data/train_val_test)
 
 ### Installation and Usage
-Go to QSalience/code for below running code. 
+- We provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing) for the evaluation code. 
 
 The codebase is actively under construction. 🚧🚧🚧 
+
+Go to QSalience/code for below running code. 
 
 0. Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
 
@@ -53,9 +55,7 @@ The codebase is actively under construction. 🚧🚧🚧
    - `t5`
    - `tiny-llama`
 
-3. We also provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing)
-
-4. Provide your text file then predict salience of your question (Coming soon)
+3. Provide your text file then predict salience of your question (Coming soon)
    
 ### Models
 Fine-tuned models are available at the following links:
