@@ -42,22 +42,10 @@ Go to QSalience/code for below running code.
   pip install -q trl
   pip install krippendorff
   ```
-  
-  
-2. To run the evaluation script and reproduce our results:
-   
-  ```
-  CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
-  ```
-   
-   Replace `MODEL_NAME` with one of the following:
-   - `mistral-ins`
-   - `llama2-chat`
-   - `t5`
-   - `tiny-llama`
 
-3. Provide your text file then predict salience of your question:
+2. Provide your text file then predict salience of your question:
    - Go to code/preprocess folder
+   
    Provide your question_csv file and article_txt file and replace the path in following commend
 
 ```
@@ -72,6 +60,19 @@ Then you will generate a example.json file
   CUDA_VISIBLE_DEVICES="" python predict_salience.py --model_name="MODEL_NAME" --input_file="preprocess/example.json" 
   ```
 
+  Replace `MODEL_NAME` with one of the following:
+   - `mistral-ins`
+   - `llama2-chat`
+   - `t5`
+   - `tiny-llama`
+
+  
+(Optional) To run the evaluation script and reproduce our results:
+   
+  ```
+  CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
+  ```
+   
    
 ### Models
 Fine-tuned models are available at the following links:
