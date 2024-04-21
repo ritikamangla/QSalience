@@ -24,8 +24,6 @@ Datasets are organized as follows:
 ### Installation and Usage
 - We provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing) for the evaluation code. You can quickly use it with gpu. 
 
-The codebase is actively under construction. 🚧🚧🚧 
-
 - Go to QSalience/code folder 
 
 - Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
@@ -87,4 +85,4 @@ Fine-tuned models are available at the following links:
 Relevant data can be found here: [answerability](./data/answerability)
 
 ## Repository Status 🚧
-This repository is under construction! We will soon upload the scripts required to implement the research presented in our paper.
+This repository is under construction! We will frequently maintain and update it. Please let us know if you have any questions by emailing us (yating.wu@utexas.edu) or creating issues in the repo.
