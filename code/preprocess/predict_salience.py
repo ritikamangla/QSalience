@@ -4,13 +4,9 @@ import re
 import numpy as np
 import torch
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import krippendorff
 from peft import PeftModel
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, DataCollatorForSeq2Seq, Seq2SeqTrainer, Seq2SeqTrainingArguments, AutoModelForSeq2SeqLM
-from sklearn.metrics import f1_score, mean_absolute_error, confusion_matrix
-from scipy.stats import spearmanr
 import argparse
 from typing import List, Tuple
 from nltk.tokenize import sent_tokenize
@@ -41,17 +37,6 @@ def load_dataset_from_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return data
-
-def compute_k_alpha(preds, trues):
-    df = pd.DataFrame({'rater1': preds,
-                'rater2': trues})
-
-    data = df.T.values.tolist()
-    data_tuple = tuple(' '.join(map(str, row)) for row in data)
-    reliability_data = [[val for val in coder.split()] for coder in data_tuple]
-    unique_values = list(set([val for sublist in reliability_data for val in sublist]))
-    unique_values.sort()
-    print("krippendorff's alpha is ", krippendorff.alpha(reliability_data=reliability_data, level_of_measurement='ordinal', value_domain=unique_values))
 
 def evaluate_model(dataset, model, tokenizer, max_length=4096, model_name=""):
     numeric_preds = []
