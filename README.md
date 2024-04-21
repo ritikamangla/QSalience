@@ -26,9 +26,9 @@ Datasets are organized as follows:
 
 The codebase is actively under construction. 🚧🚧🚧 
 
-Go to QSalience/code for below running code. 
+- Go to QSalience/code for below running code. 
 
-0. Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
+- Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
 
 1. Install necessary packages:
 ###### Depends on your dependency package version, you may expect very minor difference on the generation.
@@ -43,8 +43,9 @@ Go to QSalience/code for below running code.
   pip install krippendorff
   ```
 
+- Go to code/preprocess folder
+
 2. Provide your text file then predict salience of your question:
-   - Go to code/preprocess folder
    
    Provide your question_csv file and article_txt file and replace the path in following commend
 
@@ -52,9 +53,9 @@ Go to QSalience/code for below running code.
 python preprocess.py --question_csv_path="example_question.csv" --article_txt_path="example_article.txt"
 ```
 
-Then you will generate a example.json file
+- Then you will generate a example.json file
 
-   - Go back to code folder and run this to predict salience score
+- Go back to code folder and run this to predict salience score
 
   ```
   CUDA_VISIBLE_DEVICES="" python predict_salience.py --model_name="MODEL_NAME" --input_file="preprocess/example.json" 
