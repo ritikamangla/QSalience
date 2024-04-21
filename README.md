@@ -67,8 +67,9 @@ Replace `MODEL_NAME` with one of the following:
   - `t5`
   - `tiny-llama`
 
-  
-(Optional) To run the evaluation script and reproduce our results:
+3. Your prediction will be on MODEL_NAME_prediction.csv
+
+4. (Optional) To run the evaluation script and reproduce our results:
    
 ```
 CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
