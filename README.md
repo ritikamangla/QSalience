@@ -22,7 +22,7 @@ Datasets are organized as follows:
 - Training, validation, and testing sets: [train_val_test](./data/train_val_test)
 
 ### Installation and Usage
-- We provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing) for the evaluation code. 
+- We provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing) for the evaluation code. You can quickly use it with gpu. 
 
 The codebase is actively under construction. 🚧🚧🚧 
 
