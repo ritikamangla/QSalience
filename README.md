@@ -40,13 +40,14 @@ Go to QSalience/code for below running code.
   pip install -q -U git+https://github.com/huggingface/accelerate.git
   pip install -q datasets scipy evaluate peft scikit-learn torch transformers wandb
   pip install -q trl
+  pip install krippendorff
   ```
   
   
 2. To run the evaluation script and reproduce our results:
    
   ```
-  python evaluate_score_final.py --model_name="MODEL_NAME"
+  CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
   ```
    
    Replace `MODEL_NAME` with one of the following:
@@ -55,7 +56,22 @@ Go to QSalience/code for below running code.
    - `t5`
    - `tiny-llama`
 
-3. Provide your text file then predict salience of your question (Coming soon)
+3. Provide your text file then predict salience of your question:
+   - Go to code/preprocess folder
+   Provide your question_csv file and article_txt file and replace the path in following commend
+
+```
+python preprocess.py --question_csv_path="example_question.csv" --article_txt_path="example_article.txt"
+```
+
+Then you will generate a example.json file
+
+   - Go back to code folder and run this to predict salience score
+
+  ```
+  CUDA_VISIBLE_DEVICES="" python predict_salience.py --model_name="MODEL_NAME" --input_file="preprocess/example.json" 
+  ```
+
    
 ### Models
 Fine-tuned models are available at the following links:

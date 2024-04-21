@@ -1,0 +1,18 @@
+[
+    {
+        "instruction": "\n    Give a score from 1 to 5 for how important it is for the question to be answered later in the article.\n    Score = 1 means the question is completely unrelated to the topic of the article.\n    Score = 2 means the question is related to the article but answering it is not useful in making the article feel complete.\n    Score = 3 means the question is related to the article but answering it might not enhance the understanding of the article.\n    Score = 4 means the question is related to the article and answering it is somewhat useful in enhancing the understanding of the article.\n    Score = 5 means the question is related to the article and should definitely be answered because it might provide explanation for some new concepts.\n    ",
+        "input": {
+            "article": "Chris McKnett: The investment logic for sustainability  The world is changing in some really profound ways, and I worry that investors aren't paying enough attention to some of the biggest drivers of change, especially when it comes to sustainability. And by sustainability, I mean the really juicy things, like environmental and social issues and corporate governance. I think it's reckless to ignore these things, because doing so can jeopardize future long-term returns. And here's something that may surprise you: the balance of power to really influence sustainability rests with institutional investors, the large investors like pension funds, foundations and endowments.",
+            "question": "How exactly do institutional investors have the balance of power to influence sustainability?"
+        },
+        "output": "-1"
+    },
+    {
+        "instruction": "\n    Give a score from 1 to 5 for how important it is for the question to be answered later in the article.\n    Score = 1 means the question is completely unrelated to the topic of the article.\n    Score = 2 means the question is related to the article but answering it is not useful in making the article feel complete.\n    Score = 3 means the question is related to the article but answering it might not enhance the understanding of the article.\n    Score = 4 means the question is related to the article and answering it is somewhat useful in enhancing the understanding of the article.\n    Score = 5 means the question is related to the article and should definitely be answered because it might provide explanation for some new concepts.\n    ",
+        "input": {
+            "article": "Chris McKnett: The investment logic for sustainability  The world is changing in some really profound ways, and I worry that investors aren't paying enough attention to some of the biggest drivers of change, especially when it comes to sustainability. And by sustainability, I mean the really juicy things, like environmental and social issues and corporate governance. I think it's reckless to ignore these things, because doing so can jeopardize future long-term returns. And here's something that may surprise you: the balance of power to really influence sustainability rests with institutional investors, the large investors like pension funds, foundations and endowments.",
+            "question": "What specific actions can institutional investors take to promote sustainability?"
+        },
+        "output": "-1"
+    }
+]
