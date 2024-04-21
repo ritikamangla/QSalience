@@ -22,30 +22,50 @@ Datasets are organized as follows:
 - Training, validation, and testing sets: [train_val_test](./data/train_val_test)
 
 ### Installation and Usage
-The codebase is actively under construction.
-1. Install necessary packages using the provided requirements file:
-   ```bash
-   pip install -r requirements.txt
-   ```
+Go to QSalience/code for below running code. 
+
+The codebase is actively under construction. 🚧🚧🚧 
+
+0. Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
+
+1. Install necessary packages:
+###### Depends on your dependency package version, you may expect very minor difference on the generation.
+
+  ```
+  pip install -q -U bitsandbytes
+  pip install -q -U git+https://github.com/huggingface/transformers.git
+  pip install -q -U git+https://github.com/huggingface/peft.git
+  pip install -q -U git+https://github.com/huggingface/accelerate.git
+  pip install -q datasets scipy evaluate peft scikit-learn torch transformers wandb
+  pip install -q trl
+  ```
+  
+  
 2. To run the evaluation script and reproduce our results:
-   ```bash
-   python evaluate_score_final.py --model_name="MODEL_NAME"
-   ```
+   
+  ```
+  python evaluate_score_final.py --model_name="MODEL_NAME"
+  ```
+   
    Replace `MODEL_NAME` with one of the following:
    - `mistral-ins`
    - `llama2-chat`
    - `t5`
-   - `tiny-llama` (coming soon)
+   - `tiny-llama`
 
+3. We also provide a [quick colab running code](https://colab.research.google.com/drive/1MmZ_M7FOBcotf22j98Ov5ADsqCFaQEYz?usp=sharing)
+
+4. Provide your text file then predict salience of your question (Coming soon)
+   
 ### Models
 Fine-tuned models are available at the following links:
 - [Salience Predict Mistral-Instruct](https://huggingface.co/lingchensanwen/mistral-ins-generation-best-balanced)
 - [Salience Predict Llama2-chat](https://huggingface.co/lingchensanwen/llama2-chat-generation-best-balanced)
 - [Salience Predict Flan T5-base](https://huggingface.co/lingchensanwen/t5_model_1st)
-- Salience Predict Tinyllama-chat (coming soon)
+- [Salience Predict Tinyllama-chat](https://huggingface.co/lingchensanwen/tiny-llama-generation-best-balanced-new)
 
 ## Answerability
 Relevant data can be found here: [answerability](./data/answerability)
 
-## Repository Status
+## Repository Status 🚧
 This repository is under construction! We will soon upload the scripts required to implement the research presented in our paper.
