@@ -26,7 +26,7 @@ Datasets are organized as follows:
 
 The codebase is actively under construction. 🚧🚧🚧 
 
-- Go to QSalience/code for below running code. 
+- Go to QSalience/code folder 
 
 - Please login into huggingface before running the code as ```mistralai/Mistral-7B-Instruct-v0.2``` now requires you to approve their policy.
 
