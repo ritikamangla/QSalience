@@ -23,8 +23,6 @@ print("Current Working Directory:", os.getcwd())
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-torch.cuda.set_device(2)
-
 MAX_LENTH = 4096
 MAX_LENTH_T5 = 512
 
