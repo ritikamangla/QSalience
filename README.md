@@ -33,21 +33,21 @@ The codebase is actively under construction. 🚧🚧🚧
 1. Install necessary packages:
 ###### Depends on your dependency package version, you may expect very minor difference on the generation.
 
-  ```
-  pip install -q -U bitsandbytes
-  pip install -q -U git+https://github.com/huggingface/transformers.git
-  pip install -q -U git+https://github.com/huggingface/peft.git
-  pip install -q -U git+https://github.com/huggingface/accelerate.git
-  pip install -q datasets scipy evaluate peft scikit-learn torch transformers wandb
-  pip install -q trl
-  pip install krippendorff
-  ```
+```
+pip install -q -U bitsandbytes
+pip install -q -U git+https://github.com/huggingface/transformers.git
+pip install -q -U git+https://github.com/huggingface/peft.git
+pip install -q -U git+https://github.com/huggingface/accelerate.git
+pip install -q datasets scipy evaluate peft scikit-learn torch transformers wandb
+pip install -q trl
+pip install krippendorff
+```
 
 - Go to code/preprocess folder
 
 2. Provide your text file then predict salience of your question:
    
-   Provide your question_csv file and article_txt file and replace the path in following commend
+Provide your question_csv file and article_txt file and replace the path in following commend
 
 ```
 python preprocess.py --question_csv_path="example_question.csv" --article_txt_path="example_article.txt"
@@ -57,22 +57,22 @@ python preprocess.py --question_csv_path="example_question.csv" --article_txt_pa
 
 - Go back to code folder and run this to predict salience score
 
-  ```
-  CUDA_VISIBLE_DEVICES="" python predict_salience.py --model_name="MODEL_NAME" --input_file="preprocess/example.json" 
-  ```
+```
+CUDA_VISIBLE_DEVICES="" python predict_salience.py --model_name="MODEL_NAME" --input_file="preprocess/example.json" 
+```
 
-  Replace `MODEL_NAME` with one of the following:
-   - `mistral-ins`
-   - `llama2-chat`
-   - `t5`
-   - `tiny-llama`
+Replace `MODEL_NAME` with one of the following:
+  - `mistral-ins`
+  - `llama2-chat`
+  - `t5`
+  - `tiny-llama`
 
   
 (Optional) To run the evaluation script and reproduce our results:
    
-  ```
-  CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
-  ```
+```
+CUDA_VISIBLE_DEVICES="" python evaluate_score_final.py --model_name="MODEL_NAME"
+```
    
    
 ### Models
