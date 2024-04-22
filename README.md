@@ -3,7 +3,7 @@
 ## :star2: Introduction
 QSalience introduces the first application-agnostic salience predictor for inquisitive questions. This project is fine-tuned over our newly annotated dataset of 1,766 (context, question) pairs with salience scores. We explore the usefulness of question salience in downstream applications such as TL;DR expansion.
 
-**Authors:** [Yating Wu*](http://lingchensanwen.github.io), [Ritika Mangla*](https://ritikamangla01.netlify.app), [Alexandros G. Dimakis](https://users.ece.utexas.edu/~dimakis/),[Greg Durrett](https://www.cs.utexas.edu/~gdurrett/), and [Junyi Jessy Li](https://jessyli.com)
+**Authors:** [Yating Wu*](http://lingchensanwen.github.io), [Ritika Mangla*](https://ritikamangla01.netlify.app), [Alexandros G. Dimakis](https://users.ece.utexas.edu/~dimakis/), [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/), and [Junyi Jessy Li](https://jessyli.com)
 
 If you find our work useful or relevant to your research, please consider citing our paper.
 
